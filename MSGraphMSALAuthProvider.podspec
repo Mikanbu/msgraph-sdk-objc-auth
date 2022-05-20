@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   s.author        = 'Microsoft Graph'
 
 
-  s.ios.deployment_target = "10.0"
+  s.ios.deployment_target = "9.0"
 
   s.source       = { :git => "https://github.com/microsoftgraph/msgraph-sdk-objc-auth.git", :tag=> s.version }
 
